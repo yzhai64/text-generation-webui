@@ -10,7 +10,7 @@ from modules.utils import gradio
 
 params = {
     'activate': True,
-    'api_key': None,
+    'api_key': 29535e27e4ecc91eeba8538285c1954c,
     'selected_voice': 'None',
     'autoplay': False,
     'show_text': True,
